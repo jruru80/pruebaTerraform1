@@ -3,6 +3,6 @@ variable "resource_group_name" {
   description = "Usado para definir el nombre del grupo de recursos"
 }
 variable "location_name" {
-  default     = "chorrica"
+  default     = "West Europe"
   description = "Usado para indicar la localizacion"
 }
